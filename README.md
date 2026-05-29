@@ -14,4 +14,4 @@ CCSwitch ：最好用的Claude Code接入deepseek模型工具
 Claude Code Router
 
 Everything-Claude-Code
-Superpowers
+Superpowers ：https://github.com/obra/superpowers 一个agent框架，软件开发技能组
